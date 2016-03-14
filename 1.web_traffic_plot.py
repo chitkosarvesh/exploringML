@@ -1,7 +1,7 @@
 #FILE_NO:1
 #FILE NAME:web_traffic_plot.py
 #WRITTEN BY: Sarvesh Chitko (exploringML)
-#VERSION:1.0 DATE:20160314
+#VERSION:1.1 DATE:20160314
 import numpy as np
 import scipy as sp
 from matplotlib import pyplot as plt
