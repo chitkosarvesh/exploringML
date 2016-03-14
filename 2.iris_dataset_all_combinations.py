@@ -1,3 +1,7 @@
+#FILE_NO:2
+#FILE NAME:iris_dataset_all_combinations.py
+#WRITTEN BY: Sarvesh Chitko (exploringML)
+#VERSION:1.0 DATE:20160314
 import numpy as np;
 import scipy as sp;
 from matplotlib import pyplot as plt;
@@ -11,7 +15,6 @@ target=data['target']
 fcnt=[0,1,2,3]
 fcom=set(itertools.combinations(fcnt,2));
 for j in fcom:
-	print(j)
 	for t,marker,c in zip(xrange(3),">ox","rgb"):
 		x=j[0]
 		y=j[1]
