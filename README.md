@@ -12,4 +12,5 @@ and finds the best fit for the data.
  This code uses the "sklearn.datasets" package to load the classic
 "Iris Classification Problem" dataset and creates all possible outcomes in which data can be represented using "PyPlot".
 This will help potential data-scientists choose the best way to present data to the ML algorithm.
-
+#iris_dataset_classification_algorithm.py
+This code actually builds a classification model based on Program 2. The classification algorithm is based on simple mathematical concepts and does NOT contain sci-fi ML code.
