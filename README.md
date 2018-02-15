@@ -1,4 +1,5 @@
 # exploringML
+![exploringML](https://raw.githubusercontent.com/chitkosarvesh/exploringML/master/resources/explotingML.png)
 My own set of Python methods/classes/snippets written during my hot love affair with Machine Learning.
 #What does this do?
 This is just a set of python files that I wrote to get a better understanding of ML concepts.
